@@ -102,8 +102,14 @@
         ],
         "doap": "https://astrachat.com/clients-doap.xml",
         "name": "AstraChat XMPP Client",
-        "platforms": [],
-        "url": null
+        "platforms": [
+	    "Android",
+            "iOS",
+            "Linux",
+            "macOS",
+            "Windows"
+	],
+        "url": "https://astrachat.com"
     },
     {
         "categories": [
@@ -111,8 +117,12 @@
         ],
         "doap": "https://astrachat.com/server-doap.xml",
         "name": "AstraChat XMPP Server",
-        "platforms": [],
-        "url": null
+        "platforms": [
+	    "Linux",
+            "macOS",
+            "Windows"
+	],
+        "url": "https://astrachat.com"
     },
     {
         "categories": [
